@@ -1,0 +1,165 @@
+{
+  "_comment": "Fault-to-product matrix. Links are built as Amazon search URLs with ?tag=<NEXT_PUBLIC_AMAZON_ASSOCIATES_TAG> (placeholder YOUR-TAG-20). After Associates approval, paste each product's ASIN into 'asin' to switch to a direct /dp/ link.",
+  "faults": {
+    "over_the_top": {
+      "title": "Over-the-Top / Out-to-In Path (Slice)",
+      "why": "Your hands move out toward the ball at the start of the downswing, which steepens the shaft and swings the club across the ball, the classic slice and pull pattern.",
+      "drill": {
+        "name": "Headcover Gate + Pump Drill",
+        "steps": [
+          "Place a headcover just outside and behind the ball (toward your trail foot).",
+          "Swing to the top, then pump halfway down, feeling your trail elbow drop into your trail hip.",
+          "Swing through without hitting the headcover. 3 sets of 10 slow-motion reps."
+        ]
+      },
+      "products": [
+        { "name": "Power Angle Pro", "blurb": "Wrist-and-forearm trainer that trains the shallowing and lag that cures an over-the-top move.", "searchQuery": "Power Angle Pro golf training aid", "asin": null },
+        { "name": "Tour Striker PlaneMate 2.0", "blurb": "Resistance-band trainer that pulls you onto plane and shallows the downswing.", "searchQuery": "Tour Striker PlaneMate 2.0", "asin": null },
+        { "name": "Swing Doctor Golf Swing Trainer", "blurb": "Arm-connection trainer that keeps the trail elbow tucked from the top.", "searchQuery": "Swing Doctor golf swing trainer", "asin": null }
+      ]
+    },
+    "early_extension": {
+      "title": "Early Extension (Hips Thrust Toward the Ball)",
+      "why": "Your hips move toward the ball before impact, which removes the room your arms need and causes blocks, hooks, and thin or fat contact.",
+      "drill": {
+        "name": "Chair / Wall Butt Drill",
+        "steps": [
+          "Set up with your backside just touching a wall or chair behind you.",
+          "Make slow swings keeping your trail glute on the wall in the backswing and your lead glute on it through impact.",
+          "Work up to half-speed swings with a 7-iron. 20 reps per session."
+        ]
+      },
+      "products": [
+        { "name": "theTILTSTICK", "blurb": "Clips to your belt and gives instant feedback when your hips stand up early.", "searchQuery": "TiltStick golf training aid", "asin": null },
+        { "name": "Alignment Sticks (3-pack)", "blurb": "Stick one in the ground behind your hips as a posture reference for every rep.", "searchQuery": "golf alignment sticks", "asin": null }
+      ]
+    },
+    "loss_of_posture": {
+      "title": "Loss of Spine Angle (Standing Up)",
+      "why": "Your spine angle gets more upright between address and impact. That changes the low point of your swing and usually pairs with early extension.",
+      "drill": {
+        "name": "Hold-the-Tilt Pump Drill",
+        "steps": [
+          "Hold a club across your chest at address and note your forward bend.",
+          "Rotate back and through, keeping your chest pointing at the ground until well past impact.",
+          "Film a down-the-line rep every 10 swings to check that your head stays inside the box."
+        ]
+      },
+      "products": [
+        { "name": "theTILTSTICK", "blurb": "Gives direct posture feedback so you can keep your tilt through impact.", "searchQuery": "TiltStick golf training aid", "asin": null },
+        { "name": "Alignment Sticks (3-pack)", "blurb": "Use one as a spine-angle reference along your back in slow-motion reps.", "searchQuery": "golf alignment sticks", "asin": null }
+      ]
+    },
+    "sway": {
+      "title": "Hip Sway / Poor Weight Shift",
+      "why": "Your hips slide sideways instead of rotating, or they fail to move toward the target by impact, so your low point and strike stay inconsistent.",
+      "drill": {
+        "name": "Alignment-Stick Hip Gate",
+        "steps": [
+          "Push an alignment stick into the ground just outside your trail hip.",
+          "Turn back without touching the stick, feeling pressure on the inside of your trail foot.",
+          "Bump your lead hip toward the target to start down, then hold a balanced finish for 3 seconds."
+        ]
+      },
+      "products": [
+        { "name": "Alignment Sticks with Adjustable Holder", "blurb": "Ground holder makes a vertical hip gate that stops the slide.", "searchQuery": "golf alignment stick holder vertical", "asin": null },
+        { "name": "Alignment Sticks (3-pack)", "blurb": "Basic fiberglass sticks for the hip gate and alignment work.", "searchQuery": "golf alignment sticks", "asin": null }
+      ]
+    },
+    "casting": {
+      "title": "Casting / Early Release (Flipping)",
+      "why": "Your hands are behind the ball at impact, a sign that you throw the club early and lose lag. You lose distance, and contact gets thin or fat with high, weak shots.",
+      "drill": {
+        "name": "Pump-and-Hold Lag Drill",
+        "steps": [
+          "Swing to the top, then pull the butt of the grip down to your trail thigh while keeping your wrist hinge.",
+          "Stop there for 2 seconds, then finish with your hands ahead of the ball and the shaft leaning toward the target.",
+          "Hit half-shots with the goal of a divot after the ball. 3 sets of 10."
+        ]
+      },
+      "products": [
+        { "name": "theHANGER", "blurb": "Shaft attachment that teaches a flat lead wrist and forward shaft lean at impact.", "searchQuery": "The Hanger golf training aid", "asin": null },
+        { "name": "Anti-Flip Stick", "blurb": "Gives instant feedback the moment your lead wrist breaks down through the ball.", "searchQuery": "anti flip stick golf training aid", "asin": null },
+        { "name": "Lag Shot 7 Iron", "blurb": "Whippy-shaft 7-iron that only flushes when you hold lag and sequence correctly.", "searchQuery": "Lag Shot 7 iron golf training aid", "asin": null }
+      ]
+    },
+    "chicken_wing": {
+      "title": "Chicken Wing (Bent Lead Arm Through Impact)",
+      "why": "Your lead elbow collapses after impact instead of extending, which shortens the arc and leaves the face open.",
+      "drill": {
+        "name": "Towel-Under-Arms Connection Drill",
+        "steps": [
+          "Tuck a towel under both armpits.",
+          "Make 3/4 swings, keeping the towel in place until your hands pass your lead thigh.",
+          "Feel both arms extend toward the target after impact. 20 reps."
+        ]
+      },
+      "products": [
+        { "name": "Tour Striker Smart Ball", "blurb": "Inflatable ball you hold between your forearms to keep your arms connected and extended through impact.", "searchQuery": "Tour Striker Smart Ball", "asin": null },
+        { "name": "Swing Doctor Golf Swing Trainer", "blurb": "Keeps your arms working together so your lead elbow doesn't fold.", "searchQuery": "Swing Doctor golf swing trainer", "asin": null }
+      ]
+    },
+    "bent_lead_arm": {
+      "title": "Bent Lead Arm at the Top",
+      "why": "Your lead arm folds at the top, which narrows the arc and makes the downswing harder to time.",
+      "drill": {
+        "name": "Wide Takeaway Drill",
+        "steps": [
+          "Hold your lead arm straight but not locked, and push the club away low and wide.",
+          "Stop at the top when your lead arm can no longer stay extended.",
+          "Make 10 lead-arm-only swings, then 10 full swings with the same width."
+        ]
+      },
+      "products": [
+        { "name": "Tour Striker Smart Ball", "blurb": "Keeps the triangle between your arms and chest intact through the backswing.", "searchQuery": "Tour Striker Smart Ball", "asin": null },
+        { "name": "Tour Striker PlaneMate 2.0", "blurb": "Band resistance encourages a wide, on-plane backswing.", "searchQuery": "Tour Striker PlaneMate 2.0", "asin": null }
+      ]
+    },
+    "poor_tempo": {
+      "title": "Tempo / Rhythm Off",
+      "why": "Tour players average about a 3:1 backswing-to-downswing time ratio. A rushed or sluggish ratio throws off your sequencing and timing.",
+      "drill": {
+        "name": "3-to-1 Metronome Drill",
+        "steps": [
+          "Set a metronome app to about 70 to 80 BPM.",
+          "Start the takeaway on beat 1, reach the top on beat 3, and hit impact on beat 4.",
+          "10 swings with the metronome, then 10 without it, keeping the same count in your head."
+        ]
+      },
+      "products": [
+        { "name": "Orange Whip Trainer", "blurb": "Weighted, flexible trainer that forces a smooth transition and good rhythm.", "searchQuery": "Orange Whip golf swing trainer", "asin": null },
+        { "name": "Lag Shot Driver / 7 Iron", "blurb": "Whippy shaft punishes a rushed transition, so it rewards good tempo.", "searchQuery": "Lag Shot golf training aid", "asin": null }
+      ]
+    },
+    "setup_alignment": {
+      "title": "Setup: Posture, Stance & Alignment",
+      "why": "Your setup (stance width or forward tilt) is outside the usual range. Every swing fault downstream starts at address.",
+      "drill": {
+        "name": "Two-Stick Setup Station",
+        "steps": [
+          "Lay one alignment stick on your target line and one on your foot line, parallel.",
+          "Set your feet about shoulder-width for a mid-iron and tilt from the hips until your arms hang under your shoulders.",
+          "Check the setup on video from both views before every practice session."
+        ]
+      },
+      "products": [
+        { "name": "Fiberglass Alignment Sticks (3-pack)", "blurb": "The most-used practice aid for building a repeatable setup and aim.", "searchQuery": "golf alignment sticks fiberglass", "asin": null }
+      ]
+    },
+    "head_movement": {
+      "title": "Excess Head Movement",
+      "why": "Your head moves a lot between address and impact, which shifts the bottom of your arc and makes centered contact harder.",
+      "drill": {
+        "name": "Shadow / Stick Head Check",
+        "steps": [
+          "Set up with the sun behind you, or an alignment stick pointed at your head on video.",
+          "Make swings keeping your head's shadow within a ball-width until impact.",
+          "Let your head release toward the target only after impact."
+        ]
+      },
+      "products": [
+        { "name": "Alignment Sticks with Adjustable Holder", "blurb": "Set a vertical stick next to your head as a stability reference.", "searchQuery": "golf alignment stick holder vertical", "asin": null }
+      ]
+    }
+  }
+}
